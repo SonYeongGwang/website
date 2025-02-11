@@ -102,6 +102,20 @@ h2 {
   font-weight: 700;
 }
 
+.nolinkpapertitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #3366CC;
+}
+
+.bestextendedabstract {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #28b463;
+}
+
 .name {
   padding-top: 20px;
   margin: 0;
